@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nuwagabachristianportfolio.netlify.app/sitemap.xml
+Sitemap: https://nuwagaba.netlify.app/sitemap.xml

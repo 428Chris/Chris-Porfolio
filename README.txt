@@ -12,14 +12,14 @@ FILES TO UPLOAD TO NETLIFY / GITHUB
 
 GOOGLE SEARCH CONSOLE
 1. Deploy the site first.
-2. Add https://nuwagabachristianportfolio.netlify.app/ as a URL-prefix property in Google Search Console.
+2. Add https://nuwagaba.netlify.app/ as a URL-prefix property in Google Search Console.
 3. Choose HTML tag verification.
 4. Copy the complete <meta name="google-site-verification" ...> tag Google gives you.
 5. Paste it in index.html under the GOOGLE SEARCH CONSOLE comment inside <head>.
 6. Redeploy.
 7. Click Verify in Search Console.
 8. Submit this sitemap URL:
-   https://nuwagabachristianportfolio.netlify.app/sitemap.xml
+   https://nuwagaba.netlify.app/sitemap.xml
 9. Use URL Inspection for the homepage and click Request Indexing.
 
 IMPORTANT
